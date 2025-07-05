@@ -1,5 +1,5 @@
 # Kurs zespołu Promocji
-Zapraszam Cię do oficjalnego kursu dla zespołu promocji KN Solvro. Kurs przeznaczony jest przede wszystkim dla osób nietechnicznych, ale mimo wszystko wymaga użycia GitHuba do jego ukończenia. Dlaczego? ~~Bo tak mi kazała koordynatorka wydarzenia~~ Ponieważ jesteśmy kołem technicznym, a w zespole pracuje się najlepiej, gdy wszyscy wzajemnie rozumią swoją rolę i potrafią korzystać z tych samych narzędzi przy prowadzeniu projektu.
+Zapraszam Cię do oficjalnego kursu dla zespołu promocji KN Solvro. Kurs przeznaczony jest przede wszystkim dla osób nietechnicznych, ale mimo wszystko wymaga użycia GitHuba do jego ukończenia. Dlaczego? ~~Bo tak mi kazała koordynatorka wydarzenia~~ Ponieważ jesteśmy kołem technicznym, a w zespole pracuje się najlepiej, gdy wszyscy wzajemnie rozumieją swoją rolę i potrafią korzystać z tych samych narzędzi przy prowadzeniu projektu.
 
 Co przed nami?
 Cykl 8 spotkań zaczynających się od 5.08. W trakcie kursu będziecie prowadzić swój własny profil w mediach społecznościowych, tworząc kontent, budując markę osobistą i produkując wysokiej jakości treści. Od czwartych zajęć będziecie mieli także możliwość angażować się w Social Media naszego Koła! :D
