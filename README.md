@@ -1,4 +1,4 @@
-# Kurs zespołu Promocji
+# Od Zera do Social Media Managera - Oficjalny kurs zespołu promocji KN Solvro!
 Zapraszam Cię do oficjalnego kursu dla zespołu promocji KN Solvro. Kurs przeznaczony jest przede wszystkim dla osób nietechnicznych, ale mimo wszystko wymaga użycia GitHuba do jego ukończenia. Dlaczego? ~~Bo tak mi kazała koordynatorka wydarzenia~~ Ponieważ jesteśmy kołem technicznym, a w zespole pracuje się najlepiej, gdy wszyscy wzajemnie rozumieją swoją rolę i potrafią korzystać z tych samych narzędzi przy prowadzeniu projektu.
 
 Co przed nami?
