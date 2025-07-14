@@ -98,7 +98,7 @@ Rozpoczynamy projekt. Do wyboru dla Was będą trzy formy realizacji projektu i 
 Formy realizacji projektu:
 - Samodzielnie (niska złożoność projektu)
 - W parach (z osobą z kursu) (średnia złożoność projektu)
-- W zespołach trzy-czteroosobowych (w tym z członkiem sekcji promocji) (wysoka złożoność projektu)
+- W zespołach trzy-czteroosobowych (wysoka złożoność projektu)
 
 Tematy do realizacji:
 - **Tworzenie kanału komunikacji długoterminowej** (stworzenie bloga):
