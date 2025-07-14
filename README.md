@@ -12,7 +12,7 @@ Będziemy się spotykać przez **8 tygodni** – w poniedziałki oraz czwartki. 
 Spotkania będą miały formę wykładu, który jednak będzie prowadzony w oparciu o interakcję z publicznością. Nie wymagam włączonych kamerek, ale będzie trzeba brać aktywny udział w dyskusjach, więc zalogowanie się na DC i pójście z dala od komputera nie wchodzi w grę. Wykłady będą prowadzone na dedykowanym pod Wakacyjne Wyzwanie serwerze Discord - dokładnie tym samym, na którym będzie odbywać się reszta kursów. Każde ze spotkań rozpocznie się od wspólnej dyskusji nad pracą domową z poprzedniego tygodnia. Następnie zapoznamy się z treścią materiałów dydaktycznych, które przygotowałem dla Was na dany tydzień, opowiadając Wam o różnych ciekawych aspektach marketingu i jednocześnie angażując Was w dyskusje i stawiając nieoczywiste pytania. Marketing to branża, która szczególnie punktuje kreatywność, dlatego dzielmy się pomysłami i budujmy społeczność! Na koniec każdego wykładu otrzymacie pracę domową na następny tydzień.
 
 🔹 **Czwartki** – materiały wideo
-W godzinach wieczornych będę dla Was publikował materiały, do których możecie wracać w dowolnym momencie. Nie musicie ich oczywiście robić dokładnie w czwartek! Obejrzenie materiałów wideo nie będzie najczęściej pomocne w wykonaniu zadania domowego, ale znacząco rozszerzy treści wykładowe poruszane w poniedziałki i przyda się w projekcie końcowym, zatem - korzystajcie śmiało (to obowiązkowe do zaliczenia kursu!)!
+W godzinach wieczornych będę dla Was publikował materiały, do których możecie wracać w dowolnym momencie. Nie musicie ich oczywiście przerabiać dokładnie w czwartek! Obejrzenie materiałów wideo nie będzie najczęściej pomocne w wykonaniu zadania domowego, ale znacząco rozszerzy treści wykładowe poruszane w poniedziałki i przyda się w projekcie końcowym, zatem - korzystajcie śmiało (to obowiązkowe do zaliczenia kursu!)!
 
 W trakcie kursu przewidziane jest jedno, nieobowiązkowe (choć rekomendowane!) spotkanie stacjonarne po wykładzie wraz ze wspólną integracją w popularnym Activity Barze we Wrocławiu (stali członkowie naszej sekcji wiedzą, o który chodzi :" ). Jeśli nie możesz pojawić się we Wrocławiu, nic nie szkodzi, a jeśli chcesz spotkać się z innymi członkami kursu i poznać na żywo nasz zespół promocji, to na którymś z pierwszych wykładów ustalimy termin.
 
@@ -88,7 +88,7 @@ Po spotkaniu będziesz umieć:
 **Czwartek** - Tworzenie treści na YouTuba
 
 **TYDZIEŃ SZÓSTY**  
-W szóstym tygodniu nie będzie wykładu - zamiast tego będziecie oglądać filmiki. By zachować spójność, podzielę je na wtorek i czwartek, ale dla wygody wszystko wyślę we wtorek.
+W szóstym tygodniu nie będzie wykładu - zamiast tego będziecie oglądać filmiki. By zachować spójność, podzielę je na poniedziałek i czwartek, ale dla wygody wszystko wyślę w poniedziałek.
 **Poniedziałek** - Tworzenie treści na Facebooku
 **Czwartek** - Tworzenie treści na Instagramie
 
