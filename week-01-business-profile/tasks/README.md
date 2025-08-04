@@ -67,7 +67,7 @@ Zapisz jako `epic.md`.
 
 ## 📥 Jak oddać zadanie
 
-1. Utwórz nowego **brancha** o nazwie `feat/week-01-imienazwisko`.
+1. Utwórz nowego **brancha** o nazwie `week-01-imienazwisko`.
 2. W folderze `week-01-business-profile` dodaj:
    - `business-idea.md`
    - `profile.pdf`
@@ -80,3 +80,4 @@ Zapisz jako `epic.md`.
 
 
 > Pamiętaj: zadanie ma być wykonane samodzielnie i oddane do dnia następnych zajęć.
+
