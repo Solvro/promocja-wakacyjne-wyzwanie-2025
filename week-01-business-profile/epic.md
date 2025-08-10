@@ -1,0 +1,6 @@
+Model epic:
+
+- E: Pomysł na założenie lodziarni powstał przez częste wysłuchiwanie historii znajomych o niezadowoleniu z lokalnych sklepów z lodami. Niedojedzone porcje, nudne smaki czy bolące brzuchy od wmuszonej w siebie ostatniej zapłaconej gałki lodów - każdy z Nas to słyszał, prawda? Dlatego my, grupka okolicznych studentów, postanowiliśmy stworzyć nowe, dostępne dla każdego miejsce, w którym będziemy serwować desery lodowe dokładnie takie, jakie klienci sobie zapragną!
+- P: Jesteśmy przekonani, że tradycyjny model sprzedaży lodów nie jest wystarczający w obecnych czasach. Wierzymy, że jesteśmy w stanie razem stworzyć przytulne miejsce w centrum miasta, w którym każdy znajdzie swoją ulubioną porcję lodów.
+- I: Pastelowa paleta kolorów - nastawienie w głównej mierze na jasnoniebieskie, białe i różowo-zielone dekoracje. Kolory i dekoracje budujące skojarzenie z przytulnością, dostępnością dla każdego, idące w motto "Twoje preferencje też są ważne".
+- C: Styl komunikacji głównie w celu nawiązania stałej relacji - około 80% treści: skojarzenia z przytulnością, gościnnością, rodzinnością - miejscem, które ukoi każde smutki i zaspokoi każde potrzeby. Pozostałe 20% nastawione na turystów: komunikacja w stylu "zobacz tylko u nas...!", "czy wiesz, że..."
