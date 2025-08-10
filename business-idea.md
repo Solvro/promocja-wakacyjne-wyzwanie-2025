@@ -1,0 +1,2 @@
+**Nazwa firmy** :Yoga Rocks
+**Krótki opis działalności**: studio jogi we Wrocławiu specjalizujące się również w wyjazdach z odosobnieniami w góry, nad morze lub na łonie natury.joga dla wszystkich poziomów, istnieją również grupy tylko dla zaawansowanych uczniów. Też jest  oferta jogi z dziećmi lub partnerem/całą rodziną
