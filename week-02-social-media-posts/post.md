@@ -1,8 +1,13 @@
 <img width="1080" height="1350" alt="post styloom" src="https://github.com/user-attachments/assets/1d2a9a79-8bba-41a0-8c4f-25d1ed2354ff" />
 <h1>Post na Instagrama</h1>
 
-
-
+Odkryj Styloom i poznaj potencjał swojej garderoby!
+</br>
+Zeskanuj ubrania w aplikacji i wybierz to co do Ciebie najlepiej pasuje. Zapytaj najlepszego przyjaciela o konstruktywny feedback twojej stylówki. Sprzedaj ubrania, których już nie nosisz - pomóż nam dbać o nasze środowisko. Bądź częścią naszego community, dostawaj świeże informacje ze świata mody. I wiele więcej..
+</br>
+Ściągnij apkę Styloom już teraz - poznaj swój outfit w innym wydaniu!
+</br>Link do pobrania aplikacji w BIO.
+Przymierz, pytaj, sprzedawaj i inspiruj się w Styloom.</br>
 <h1>Post na Facebooka (który do końca nie jest moim targetem)</h1>
 
 Potrzebujesz inspiracji jak ubrać się na nadchodzącą okazję?</br>
