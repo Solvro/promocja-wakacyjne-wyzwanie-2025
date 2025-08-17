@@ -17,3 +17,7 @@ Nasza apka to również:
 📎Najlepsze promocje i kody rabatowe - nasi partnerzy przygotowali je specjalnie dla Ciebie!</br>
 📎Community - integralna część naszej pasji do ubrań!</br>
 📎Kampanie społeczne - działamy na rzecz nas wszystkich!</br>
+</br>
+Pobierz Styloom teraz i przekonaj się o potencjale Twoich outfitów!📲⬇️
+</br>
+<link do pobrania aplikacji>
