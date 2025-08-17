@@ -9,7 +9,11 @@ Potrzebujesz inspiracji jak ubrać się na nadchodzącą okazję?</br>
 </br>
 Z Styloom nie musisz zgadywać! Pytasz znajomych i masz pewność, że wybierasz to co naprawdę ci pasuje!
 </br>
-</br>Stworzyliśmy Styloom właśnie z myślą o Tobie, przymierz ubrania w naszej wirtualnej przymierzalni. To proste! Zeskanuj ubrania lub dodaj wprost z aplikacji partnerskich Twoje produkty i dostań konstruktywny feedback od znajomych. 
+</br>Stworzyliśmy Styloom właśnie z myślą o Tobie, przymierz ubrania w naszej wirtualnej przymierzalni. To proste! Zeskanuj ubrania lub dodaj wprost z aplikacji partnerskich Twoje produkty i dostań konstruktywny feedback od znajomych. Odkrywaj możliwości Twojej garderoby bez wychodzenia z domu!
 </br>
 Nasza apka to również:
-📎
+</br>
+📎Sprzedaż używanych ubrań - zadbaj z nami o środowisko! Łatwo przymierz ciuchy, które Cię interesują!</br>
+📎Najlepsze promocje i kody rabatowe - nasi partnerzy przygotowali je specjalnie dla Ciebie!</br>
+📎Community - integralna część naszej pasji do ubrań!</br>
+📎Kampanie społeczne - działamy na rzecz nas wszystkich!</br>
