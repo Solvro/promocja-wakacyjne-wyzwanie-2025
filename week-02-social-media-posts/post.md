@@ -8,7 +8,7 @@ Odkryj Styloom i poznaj potencjał swojej garderoby!
 </br>Ściągnij apkę Styloom już teraz - poznaj swój outfit w innym wydaniu!
 </br>Link do pobrania aplikacji w BIO.
 </br>Przymierz, pytaj, sprzedawaj i inspiruj się w Styloom.</br>
-<h1>Post na Facebooka (który do końca nie jest moim targetem)</h1>
+<h1>Post na Facebooka</h1>
 
 Potrzebujesz inspiracji jak ubrać się na nadchodzącą okazję?</br>
 </br>
