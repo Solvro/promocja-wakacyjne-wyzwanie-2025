@@ -20,4 +20,4 @@ Nasza apka to również:
 </br>
 Pobierz Styloom teraz i przekonaj się o potencjale Twoich outfitów!📲⬇️
 </br>
-<link do pobrania aplikacji>
+!link do pobrania aplikacji!
