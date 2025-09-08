@@ -1,0 +1,3 @@
+Dlaczego miałoby przekonać naszych czytelników?
+
+Wywiad ze znanym ekspertem z branży targetującej w użytkowników aplikacji. Tematyka rozwoju technologicznego jest interesująca, zatem poznanie nowych narzędzi wpływających na urozmaicenie pasji, ułatwieniem w wyborze outfitu czy poszukiwanie inspiracji w ubiorze. Ekspert znajduje się na konferencji poświęconej prezentacji aplikacji, przytacza wiele tematów łączących się z hasłami reklamowymi aplikacji. Natomiast my jako aplikacja przytaczamy statystyki i próbujemy trafić do młodszego czytelnika. Przedstawienie funkcjonalności aplikacji, dlatego czytelnik widzi, że aplikacja rozwiązuje jego potrzeby, a sama forma materiału jest autentyczna i ekspercka (rozmowa ze znaną osobistością).
