@@ -12,7 +12,7 @@ Opracować artykuł zoptymalizowany pod SEO, który będzie tekstem specjalistyc
 
 ## 🔢 Części zadania
 
-### 🧠 Zadanie 1 - Stwóz wpis na bloga
+### 🧠 Zadanie 1 - Stwórz wpis na bloga
 
 Masz dwie ścieżki wykonania tego zadania:
 1. Przypomnij sobie o swoim biznesie, który stworzyłeś po pierwszych zajęciach. Napisz dla tego fikcyjnego biznesu wpis na bloga, który przyciągnie potencjalnych klientów.
@@ -37,5 +37,6 @@ Powiedz, w jaki sposób Twój tekst został zoptymalizowany. Co sprawia, że jes
 
 
 > Pamiętaj: zadanie ma być wykonane samodzielnie i oddane do dnia następnych zajęć.
+
 
 
